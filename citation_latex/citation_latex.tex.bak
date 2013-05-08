@@ -1,0 +1,71 @@
+\documentclass[10pt,letterpaper]{article}
+
+%\usepackage{cvpr}
+\usepackage{times}
+\usepackage{epsfig}
+\usepackage{graphicx}
+\usepackage{amsmath}
+\usepackage{amssymb}
+
+% Include other packages here, before hyperref.
+
+% If you comment hyperref and then uncomment it, you should delete
+% egpaper.aux before re-running latex.  (Or just hit 'q' on the first latex
+% run, let it finish, and you should be clear).
+\usepackage[pagebackref=true,breaklinks=true,letterpaper=true,colorlinks,bookmarks=false]{hyperref}
+
+% \cvprfinalcopy % *** Uncomment this line for the final submission
+
+%\def\cvprPaperID{****} % *** Enter the CVPR Paper ID here
+%\def\httilde{\mbox{\tt\raisebox{-.5ex}{\symbol{126}}}}
+
+% Pages are numbered in submission mode, and unnumbered in camera-ready
+%\ifcvprfinal\pagestyle{empty}\fi
+\begin{document}
+
+%%%%%%%%% TITLE
+\title{Citations of My Thesis}
+
+\author{Xin Guo\\
+Beijing Univ. of Posts and Telecomms\\
+{\tt\small guoxin523@gmail.com}
+% For a paper whose authors are all at the same institution,
+% omit the following lines up until the closing ``}''.
+% Additional authors and addresses can be added with ``\and'',
+% just like the second author.
+% To save space, use either the email address or home page, not both
+}
+
+\maketitle
+%\thispagestyle{empty}
+
+%%%%%%%%% ABSTRACT
+\section{Introduction}
+This article is for citations of my thesis. I copy the \textbf{BibTex} citations from \textbf{google scholars} and then paste here, so I can use them in my thesis written by \textbf{MS office Word}.
+
+%%%%%%%%% BODY TEXT
+\section{Citations in Chapter 3}
+harris54 \cite{harris54} \\
+fei2005bayesian \cite{fei2005bayesian} \\
+fei2007recognizing \cite{fei2007recognizing} \\
+lazebnik2006beyond \cite{lazebnik2006beyond}\\
+grauman2005pyramid \cite{grauman2005pyramid} \\
+muja2009fast \cite{muja2009fast} \\
+boureau2010theoretical \cite{boureau2010theoretical} \\
+pascal-voc-2007 \cite{pascal-voc-2007} \\
+friedman2001elements \cite{friedman2001elements} \\
+SIFT \cite{lowe1999object,lowe2004distinctive} \\
+bay2006surf \cite{bay2006surf} \\
+forssen2007shape \cite{forssen2007shape} \\
+dalal2005histograms \cite{dalal2005histograms} \\
+van2010evaluating \cite{van2010evaluating} \\
+hartigan1979algorithm \cite{hartigan1979algorithm} \\
+yang2009linear \cite{yang2009linear} \\
+wang2010locality \cite{wang2010locality} \\
+
+{\small
+\bibliographystyle{ieee}
+\bibliography{egbib}
+}
+
+\end{document}

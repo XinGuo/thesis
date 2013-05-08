@@ -1,0 +1,171 @@
+
+@article{harris54,
+  added-at = {2010-08-05T14:23:58.000+0200},
+  author = {Harris, Zellig},
+  biburl = {http://www.bibsonomy.org/bibtex/252e7950c31610617170d71c320f2252e/tgunkel},
+  interhash = {a23596808b6273076e1259dedca16330},
+  intrahash = {52e7950c31610617170d71c320f2252e},
+  journal = {Word},
+  key = {Harris},
+  keywords = {diplom distributional},
+  number = 23,
+  pages = {146--162},
+  timestamp = {2010-08-05T14:23:58.000+0200},
+  title = {Distributional structure},
+  volume = 10,
+  year = 1954
+}
+
+@inproceedings{fei2005bayesian,
+  title={A bayesian hierarchical model for learning natural scene categories},
+  author={Fei-Fei, Li and Perona, Pietro},
+  booktitle={IEEE Conference on Computer Vision and Pattern Recognition},
+  volume={2},
+  pages={524--531},
+  year={2005}
+}
+@article{fei2007recognizing,
+  title={Recognizing and learning object categories},
+  author={Fei-Fei, Li and Fergus, Rob and Torralba, Antonio},
+  journal={CVPR Short Course},
+  year={2007}
+}
+
+@inproceedings{lazebnik2006beyond,
+  title={Beyond bags of features: Spatial pyramid matching for recognizing natural scene categories},
+  author={Lazebnik, Svetlana and Schmid, Cordelia and Ponce, Jean},
+  booktitle={IEEE Conference on Computer Vision and Pattern Recognition},
+  volume={2},
+  pages={2169--2178},
+  year={2006}
+}
+
+@inproceedings{grauman2005pyramid,
+  title={The pyramid match kernel: Discriminative classification with sets of image features},
+  author={Grauman, Kristen and Darrell, Trevor},
+  booktitle={9th IEEE International Conference on Computer Vision},
+  volume={2},
+  pages={1458--1465},
+  year={2005}
+}
+
+@inproceedings{muja2009fast,
+  title={Fast approximate nearest neighbors with automatic algorithm configuration},
+  author={Muja, Marius and Lowe, David G},
+  booktitle={International Conference on Computer Vision Theory and Applications},
+  pages={331--340},
+  year={2009}
+}
+
+@inproceedings{boureau2010theoretical,
+  title={A theoretical analysis of feature pooling in visual recognition},
+  author={Boureau, Y-Lan and Ponce, Jean and LeCun, Yann},
+  booktitle={International Conference on Machine Learning},
+  pages={111--118},
+  year={2010}
+}
+
+@misc{pascal-voc-2007,
+	author = "Everingham, M. and Van~Gool, L. and Williams, C. K. I. and Winn, J. and Zisserman, A.",
+	title = "The {PASCAL} {V}isual {O}bject {C}lasses {C}hallenge 2007 {(VOC2007)} {R}esults",
+	howpublished = "http://www.pascal-network.org/challenges/VOC/voc2007/workshop/index.html"
+}
+
+@book{friedman2001elements,
+  title={The elements of statistical learning},
+  author={Friedman, Jerome and Hastie, Trevor and Tibshirani, Robert},
+  volume={1},
+  year={2001},
+  publisher={Springer Series in Statistics}
+}
+
+@inproceedings{lowe1999object,
+  title={Object recognition from local scale-invariant features},
+  author={Lowe, David G},
+  booktitle={7th IEEE International Conference on Computer Vision},
+  volume={2},
+  pages={1150--1157},
+  year={1999}
+}
+
+@article{lowe2004distinctive,
+  title={Distinctive image features from scale-invariant keypoints},
+  author={Lowe, David G},
+  journal={International journal of computer vision},
+  volume={60},
+  number={2},
+  pages={91--110},
+  year={2004},
+  publisher={Springer}
+}
+
+@article{bay2006surf,
+  title={Surf: Speeded up robust features},
+  author={Bay, Herbert and Tuytelaars, Tinne and Van Gool, Luc},
+  journal={9th European Conference on Computer Vision},
+  pages={404--417},
+  year={2006},
+  publisher={Springer}
+}
+
+@inproceedings{forssen2007shape,
+  title={Shape descriptors for maximally stable extremal regions},
+  author={Forssen, P-E and Lowe, David G},
+  booktitle={11th International Conference on Computer Vision},
+  pages={1--8},
+  year={2007},
+}
+
+@inproceedings{dalal2005histograms,
+  title={Histograms of oriented gradients for human detection},
+  author={Dalal, Navneet and Triggs, Bill},
+  booktitle={IEEE Conference on Computer Vision and Pattern Recognition},
+  volume={1},
+  pages={886--893},
+  year={2005}
+}
+
+@article{van2010evaluating,
+  title={Evaluating color descriptors for object and scene recognition},
+  author={Van De Sande, Koen EA and Gevers, Theo and Snoek, Cees GM},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  volume={32},
+  number={9},
+  pages={1582--1596},
+  year={2010},
+  publisher={IEEE}
+}
+
+@article{hartigan1979algorithm,
+  title={Algorithm AS 136: A k-means clustering algorithm},
+  author={Hartigan, John A and Wong, Manchek A},
+  journal={Applied statistics},
+  pages={100--108},
+  year={1979},
+  publisher={JSTOR}
+}
+
+@inproceedings{yang2009linear,
+  title={Linear spatial pyramid matching using sparse coding for image classification},
+  author={Yang, Jianchao and Yu, Kai and Gong, Yihong and Huang, Thomas},
+  booktitle={IEEE Conference on Computer Vision and Pattern Recognition},
+  pages={1794--1801},
+  year={2009}
+}
+
+@inproceedings{wang2010locality,
+  title={Locality-constrained linear coding for image classification},
+  author={Wang, Jinjun and Yang, Jianchao and Yu, Kai and Lv, Fengjun and Huang, Thomas and Gong, Yihong},
+  booktitle={IEEE Conference on Computer Vision and Pattern Recognition},
+  pages={3360--3367},
+  year={2010}
+}
+
+@inproceedings{yang2007evaluating,
+  title={Evaluating bag-of-visual-words representations in scene classification},
+  author={Yang, Jun and Jiang, Yu-Gang and Hauptmann, Alexander G and Ngo, Chong-Wah},
+  booktitle={Proceedings of the international workshop on Workshop on multimedia information retrieval},
+  pages={197--206},
+  year={2007},
+  organization={ACM}
+}

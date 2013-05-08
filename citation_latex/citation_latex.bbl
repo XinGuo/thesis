@@ -1,0 +1,118 @@
+\begin{thebibliography}{10}\itemsep=-1pt
+
+\bibitem{bay2006surf}
+H.~Bay, T.~Tuytelaars, and L.~Van~Gool.
+\newblock Surf: Speeded up robust features.
+\newblock {\em 9th European Conference on Computer Vision}, pages 404--417,
+  2006.
+
+\bibitem{boureau2010theoretical}
+Y.-L. Boureau, J.~Ponce, and Y.~LeCun.
+\newblock A theoretical analysis of feature pooling in visual recognition.
+\newblock In {\em International Conference on Machine Learning}, pages
+  111--118, 2010.
+
+\bibitem{dalal2005histograms}
+N.~Dalal and B.~Triggs.
+\newblock Histograms of oriented gradients for human detection.
+\newblock In {\em IEEE Conference on Computer Vision and Pattern Recognition},
+  volume~1, pages 886--893, 2005.
+
+\bibitem{pascal-voc-2007}
+M.~Everingham, L.~Van~Gool, C.~K.~I. Williams, J.~Winn, and A.~Zisserman.
+\newblock The {PASCAL} {V}isual {O}bject {C}lasses {C}hallenge 2007 {(VOC2007)}
+  {R}esults.
+\newblock
+  http://www.pascal-network.org/challenges/VOC/voc2007/workshop/index.html.
+
+\bibitem{fei2007recognizing}
+L.~Fei-Fei, R.~Fergus, and A.~Torralba.
+\newblock Recognizing and learning object categories.
+\newblock {\em CVPR Short Course}, 2007.
+
+\bibitem{fei2005bayesian}
+L.~Fei-Fei and P.~Perona.
+\newblock A bayesian hierarchical model for learning natural scene categories.
+\newblock In {\em IEEE Conference on Computer Vision and Pattern Recognition},
+  volume~2, pages 524--531, 2005.
+
+\bibitem{forssen2007shape}
+P.-E. Forssen and D.~G. Lowe.
+\newblock Shape descriptors for maximally stable extremal regions.
+\newblock In {\em 11th International Conference on Computer Vision}, pages
+  1--8, 2007.
+
+\bibitem{friedman2001elements}
+J.~Friedman, T.~Hastie, and R.~Tibshirani.
+\newblock {\em The elements of statistical learning}, volume~1.
+\newblock Springer Series in Statistics, 2001.
+
+\bibitem{grauman2005pyramid}
+K.~Grauman and T.~Darrell.
+\newblock The pyramid match kernel: Discriminative classification with sets of
+  image features.
+\newblock In {\em 9th IEEE International Conference on Computer Vision},
+  volume~2, pages 1458--1465, 2005.
+
+\bibitem{harris54}
+Z.~Harris.
+\newblock Distributional structure.
+\newblock {\em Word}, 10(23):146--162, 1954.
+
+\bibitem{hartigan1979algorithm}
+J.~A. Hartigan and M.~A. Wong.
+\newblock Algorithm as 136: A k-means clustering algorithm.
+\newblock {\em Applied statistics}, pages 100--108, 1979.
+
+\bibitem{lazebnik2006beyond}
+S.~Lazebnik, C.~Schmid, and J.~Ponce.
+\newblock Beyond bags of features: Spatial pyramid matching for recognizing
+  natural scene categories.
+\newblock In {\em IEEE Conference on Computer Vision and Pattern Recognition},
+  volume~2, pages 2169--2178, 2006.
+
+\bibitem{lowe1999object}
+D.~G. Lowe.
+\newblock Object recognition from local scale-invariant features.
+\newblock In {\em 7th IEEE International Conference on Computer Vision},
+  volume~2, pages 1150--1157, 1999.
+
+\bibitem{lowe2004distinctive}
+D.~G. Lowe.
+\newblock Distinctive image features from scale-invariant keypoints.
+\newblock {\em International journal of computer vision}, 60(2):91--110, 2004.
+
+\bibitem{muja2009fast}
+M.~Muja and D.~G. Lowe.
+\newblock Fast approximate nearest neighbors with automatic algorithm
+  configuration.
+\newblock In {\em International Conference on Computer Vision Theory and
+  Applications}, pages 331--340, 2009.
+
+\bibitem{van2010evaluating}
+K.~E. Van De~Sande, T.~Gevers, and C.~G. Snoek.
+\newblock Evaluating color descriptors for object and scene recognition.
+\newblock {\em IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  32(9):1582--1596, 2010.
+
+\bibitem{wang2010locality}
+J.~Wang, J.~Yang, K.~Yu, F.~Lv, T.~Huang, and Y.~Gong.
+\newblock Locality-constrained linear coding for image classification.
+\newblock In {\em IEEE Conference on Computer Vision and Pattern Recognition},
+  pages 3360--3367, 2010.
+
+\bibitem{yang2007evaluating}
+J.~Yang, Y.-G. Jiang, A.~G. Hauptmann, and C.-W. Ngo.
+\newblock Evaluating bag-of-visual-words representations in scene
+  classification.
+\newblock In {\em Proceedings of the international workshop on Workshop on
+  multimedia information retrieval}, pages 197--206. ACM, 2007.
+
+\bibitem{yang2009linear}
+J.~Yang, K.~Yu, Y.~Gong, and T.~Huang.
+\newblock Linear spatial pyramid matching using sparse coding for image
+  classification.
+\newblock In {\em IEEE Conference on Computer Vision and Pattern Recognition},
+  pages 1794--1801, 2009.
+
+\end{thebibliography}
